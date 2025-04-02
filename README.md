@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## I love computers.
 <!--
 **EAM0719/EAM0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
